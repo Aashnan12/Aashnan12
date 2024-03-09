@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![snake gif](https://github.com/Aashnan12/Aashnan12/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Aashnan12/Aashnan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
